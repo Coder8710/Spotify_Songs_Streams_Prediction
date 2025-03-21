@@ -1,1 +1,2 @@
 # Spotify_Songs_Streams_Prediction
+This project analyzes a dataset of the most streamed songs on Spotify to identify trends in popular music. A linear regression model will be used to predict the number of streams based on factors such as artist popularity, release date patterns, and song characteristics (danceability, valence, energy, and instrumentalness). The project aims to provide insights into the dynamics of the music industry, the characteristics of songs that resonate with listeners on a large scale, and the predictive power of linear regression in this context.
